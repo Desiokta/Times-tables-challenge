@@ -3,7 +3,6 @@ package com.example.timetables;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
-
 import android.util.Log;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
